@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/a358dd0d-3c31-419b-beb7-f600bb221962"/>
+  <img width="256" height="256" alt="BitAxe Gamma 601" src="https://github.com/user-attachments/assets/53f6f92d-bcda-4a93-acfc-83e8caeee6c1" />
 </div>
 
 ## Welcome to awesome BitAxe Gamma! ⛏️
