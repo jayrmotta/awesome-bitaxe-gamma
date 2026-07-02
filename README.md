@@ -1,17 +1,17 @@
 <div align="center">
-  <img width="256" height="256" alt="BitAxe Gamma 601" src="https://github.com/user-attachments/assets/53f6f92d-bcda-4a93-acfc-83e8caeee6c1" />
+  <img width="256" height="256" alt="Bitaxe Gamma 601" src="https://github.com/user-attachments/assets/53f6f92d-bcda-4a93-acfc-83e8caeee6c1" />
 </div>
 
-## Welcome to awesome BitAxe Gamma! ⛏️
+## Welcome to awesome Bitaxe Gamma! ⛏️
 
-First and foremost, thank you [@Skot](https://github.com/skot) for blessing us with this technology, I imagine there's a bunch more people who deserve credit I just unfortunately don't know their name. If you wish to build your own BitAxe Gamma please refer to [BitAxe Gamma's repo](https://github.com/skot/bitaxeGamma), or if you want to buy one you can just use one of the [Bitaxe Legit™](https://bitaxe.org/legit.html) network of companies selling the rig.
+First and foremost, thank you [@Skot](https://github.com/skot) for blessing us with this technology, I imagine there's a bunch more people who deserve credit I just unfortunately don't know their name. If you wish to build your own Bitaxe Gamma please refer to [Bitaxe Gamma's repo](https://github.com/skot/bitaxeGamma), or if you want to buy one you can just use one of the [Bitaxe Legit™](https://bitaxe.org/legit.html) network of companies selling the rig.
 
-This repository contains a community-curated list of everything related to [BitAxe Gamma](https://github.com/skot/bitaxeGamma) and its ecosystem.
+This repository contains a community-curated list of everything related to [Bitaxe Gamma](https://github.com/skot/bitaxeGamma) and its ecosystem.
 
 Got a question or suggestion? Please open an issue and we'll discuss it. If you wish to add something feel free to create a PR.
 
 # Learning resources
-- [What is a BitAxe?](https://www.youtube.com/watch?v=HU3VIdFM6TA)
+- [What is a Bitaxe?](https://www.youtube.com/watch?v=HU3VIdFM6TA)
 - [How to Set Up Your New Bitaxe, Part 1/4](https://www.youtube.com/watch?v=HU3VIdFM6TA)
 - [Bitaxe Settings & Options, Part 2/4](https://www.youtube.com/watch?v=a6h5D0vLya0)
 - [How to Update Your Bitaxe Firmware, Part 3/4](https://www.youtube.com/watch?v=F5Qa7ZSALGs)
