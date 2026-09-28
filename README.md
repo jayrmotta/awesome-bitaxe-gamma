@@ -21,6 +21,7 @@ Got a question or suggestion? Please open an issue and we'll discuss it. If you 
 - [Bitaxe Gamma Overheating Issues Solved](https://www.youtube.com/shorts/tHYgXdAHAV8)
 - [Peak BitAxe experience - How to bend the odds to your liking](https://youtu.be/9b328GiJrQM?si=auZ2Jth1gcUjRr-d&t=3160)
 - [What are these shares I found while pool mining?](https://www.reddit.com/r/BitcoinMining/comments/u4e977/solo_mining_questions_solo_ckpool/)
+- [Solo Bitcoin mining probability calculator](https://mininglucky.com/solo-bitcoin-mining-probability-calculator) Estimate the probability of finding at least one block from SHA256 power, duration, and Bitcoin network hashrate before configuring or renting power.
 - [A discussion on extreme overclocking the Gamma](https://x.com/trendkraft/status/1858875304988557625)
 
 # Accessories and parts
@@ -33,3 +34,4 @@ Got a question or suggestion? Please open an issue and we'll discuss it. If you 
 # Mining pools
 - [Public Pool - solo mining pool with zero fees](https://web.public-pool.io)
 - [CK Pool - solo mining pool with 2% fees](https://solo.ckpool.org)
+- [BTC PoW Lab](https://btcpowlab-pool.com/start) Hybrid Solo pool with public address statistics for live hashrate, accepted shares, best difficulty, and workers. The published allocation is 85 percent to the finder, 10 percent to eligible miners with recent accepted work, and 5 percent to pool infrastructure.
