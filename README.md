@@ -33,3 +33,4 @@ Got a question or suggestion? Please open an issue and we'll discuss it. If you 
 # Mining pools
 - [Public Pool - solo mining pool with zero fees](https://web.public-pool.io)
 - [CK Pool - solo mining pool with 2% fees](https://solo.ckpool.org)
+- [VeinPool - solo Bitcoin mining pool with 1% fee, Bitaxe port 3601, EU](https://veinpool.fr/en/coin/btc)
